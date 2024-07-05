@@ -1,0 +1,11 @@
+{
+  "name": "doodle-jump-ala-wildan",
+  "version": "1.0.0",
+  "description": "membuat doodle jump ala wildan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wildan ia",
+  "license": "ISC"
+}
